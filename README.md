@@ -30,5 +30,23 @@ To run the notebooks and app locally, install the following libraries:  pip inst
 
 **#Getting Started**
 
-1.Clone the repository
+1.Clone the repository 
+
+git clone https://github.com/jonathanroy105/Liver-Disease-Prediction.git
+
+cd Liver-Disease-Prediction
+
+2.Run EDA and Model Building Notebooks: Use Jupyter Notebook or VSCode to explore the EDA and model-building processes.
+
+3.Launch Streamlit App: streamlit run app.py
+
+**#Results**
+
+The SVM model achieved a test accuracy of 94%, making it the best-performing model for this dataset.
+
+**#Future Improvements**
+
+->Explore more complex models (e.g., ensemble techniques) for potential performance gains.
+
+->Add feature engineering and advanced preprocessing for improved model accuracy.
 
